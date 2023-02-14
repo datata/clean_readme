@@ -1,4 +1,4 @@
-# Welcome to my backend app  
+# Welcome to my frontend app  
 
 <details>
   <summary>Contenido 📝</summary>
@@ -26,19 +26,19 @@ Este proyecto requería conexión a una API funcional y usar react para crear un
 Decidí crear una aplicación web para ayudar a los amantes del gimnasio, que les permitiría crear y realizar un seguimiento de nuevas rutinas para sus ejercicios diarios. He visto muchas apps de este estilo pero ninguna que nos permita cambiar tan libremente las rutinas adaptandolas a nuestras necesidades.    
   
 ## Deploy 🚀
-<center>
+<div align="center">
     <a href="https://www.google.com"><strong>Url a producción </strong></a>🚀🚀🚀
-</center>
+</div>
 
 ## Stack
-<center>
+<div align="center">
 <a href="https://www.reactjs.com/">
     <img src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
     <img src= "https://img.shields.io/badge/javascipt-EFD81D?style=for-the-badge&logo=javascript&logoColor=black"/>
 </a>
- </center>
+ </div>
 
 ## Instalación en local
 1. Clonar el repositorio
@@ -119,8 +119,6 @@ Agradezco a mis compañeros el tiempo dedicado a este proyecto:
 
 ## Contacto
 
-<center>
-    <a href = "mailto:micorreoelectronico@gmail.com"><img src="https://img.shields.io/badge/Gmail-C6362C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/linkedinUser/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    </p>
-</center>
+<a href = "mailto:micorreoelectronico@gmail.com"><img src="https://img.shields.io/badge/Gmail-C6362C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/linkedinUser/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
