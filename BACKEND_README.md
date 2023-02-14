@@ -19,10 +19,10 @@
 </details>
 
 ## Objetivo
-    Este proyecto requería una API funcional conectada a una base de datos con al menos una relación de uno a muchos y una relación de muchos a muchos.
+Este proyecto requería una API funcional conectada a una base de datos con al menos una relación de uno a muchos y una relación de muchos a muchos.
 
 ## Sobre el proyecto
-    Decidí crear una aplicación web para ayudar a los amantes del gimnasio, que les permitiría crear y realizar un seguimiento de nuevas rutinas para sus ejercicios diarios. He visto muchas apps de este estilo pero ninguna que nos permita cambiar tan libremente las rutinas adaptandolas a nuestras necesidades.    
+Decidí crear una aplicación web para ayudar a los amantes del gimnasio, que les permitiría crear y realizar un seguimiento de nuevas rutinas para sus ejercicios diarios. He visto muchas apps de este estilo pero ninguna que nos permita cambiar tan libremente las rutinas adaptandolas a nuestras necesidades.    
   
 ## Stack
 Tecnologías utilizadas:
@@ -55,36 +55,36 @@ Tecnologías utilizadas:
 7. ...
 
 ## Endpoints
-### AUTH
-1. REGISTER
+- AUTH
+    - REGISTER
 
-        POST http://localhost:3000/api/register
-    body:
-    ``` js
-    {
-        "user": "David",
-        "email": "david@david.com",
-        "password": "princes"
-    }
-    ```
+            POST http://localhost:3000/api/register
+        body:
+        ``` js
+            {
+                "user": "David",
+                "email": "david@david.com",
+                "password": "princes"
+            }
+        ```
 
-2. LOGIN
+    - LOGIN
 
-        POST http://localhost:3000/api/login  
-    body:
-    ``` js
-    {
-        "user": "David",
-        "email": "david@david.com",
-        "password": "princes"
-    }
-    ```
-### RUTINAS
-3. RECUPERAR RUTINAS  
+            POST http://localhost:3000/api/login  
+        body:
+        ``` js
+            {
+                "user": "David",
+                "email": "david@david.com",
+                "password": "princes"
+            }
+        ```
+- RUTINAS
+    - RECUPERAR RUTINAS  
 
-        POST http://localhost:3000/api/rutina
+            GET http://localhost:3000/api/rutina
 
-4. ...
+    - ...
 
 
 ## Futuras funcionalidades
@@ -99,7 +99,7 @@ Las sugerencias y aportaciones son siempre bienvenidas.
 Puedes hacerlo de dos maneras:
 
 1. Abriendo una issue
-2. Fork the Project
+2. Crea un fork del repositorio
     - Crea una nueva rama  
         ```
         $ git checkout -b feature/nombreUsuario-mejora
@@ -108,21 +108,20 @@ Puedes hacerlo de dos maneras:
         ```
         $ git commit -m 'feat: mejora X cosa'
         ```
-    - Haz puush a la rama 
+    - Haz push a la rama 
         ```
         $ git push origin feature/nombreUsuario-mejora
         ```
     - Abre una solicitud de Pull Request
 
 ## Licencia
-Este proyecto se encuentra bajo licencia de Mi Nombre
+Este proyecto se encuentra bajo licencia de "Mi Nombre"
 
 ## Webgrafia:
-
-    Para conseguir mi objetivo he recopilado información de:
-    - link a repositorios 
-    - link a documentacion de librerias externas
-    - ...
+Para conseguir mi objetivo he recopilado información de:
+- link a repositorios 
+- link a documentacion de librerias externas
+- ...
 
 ## Desarrollo:
 
@@ -136,13 +135,13 @@ Este proyecto se encuentra bajo licencia de Mi Nombre
 
 Agradezco a mis compañeros el tiempo dedicado a este proyecto:
 
-- Jose  
-<a href="https://www.github.com/userGithub/" target="_blank"><img src="https://img.shields.io/badge/github-24292F?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+- *Jose*  
+<a href="https://github.com/Dave86dev" target="_blank"><img src="https://img.shields.io/badge/github-24292F?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 
-- David  
+- **David**  
 <a href="https://www.github.com/userGithub/" target="_blank"><img src="https://img.shields.io/badge/github-24292F?style=for-the-badge&logo=github&logoColor=red" target="_blank"></a>
 
-- Mara  
+- ***Mara***  
 <a href="https://www.github.com/userGithub/" target="_blank"><img src="https://img.shields.io/badge/github-24292F?style=for-the-badge&logo=github&logoColor=green" target="_blank"></a> 
 
 ## Contacto
