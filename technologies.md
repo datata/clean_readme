@@ -1,20 +1,31 @@
-[![Express][Express.js]][Express.js-url]  
-[![Node][Node.JS]][Node.JS-url]  
-[![Mongo][MongoDB]][MongoDB-url]  
-[![JWT]][JWT-url]  
-[![Postman]][Postman-url]  
-[![Railway]][Railway-url]  
+# TECHNOLOGIES
+
 [![HTML5]][HTML5-url]  
 [![CSS]][CSS-url]  
-[![PHP]][PHP-url]  
-[![LARAVEL]][LARAVEL-url]  
+[![js]][js-url]  
+[![GIT]][git-url]  
+[![GITHUB]][github-url]  
+[![DOCKER]][docker-url]  
 [![MYSQL]][MYSQL-url]  
-[![LINKEDIN]][linkedin-url]  
+[![SEQUELIZE]][sequelize-url]  
+[![Mongo][MongoDB]][MongoDB-url]  
+[![Node][Node.JS]][Node.JS-url]  
+[![Express][Express.js]][Express.js-url]  
+[![Postman]][Postman-url]  
+[![JWT]][JWT-url]  
+[![PHP]][PHP-url]  
+[![LARAVEL]][LARAVEL-url]   
 [![React.js]][React-url]  
+[![Railway]][Railway-url]  
 
+Página de iconos:  
+[Enlace a los iconos de las tecnologias]: https://simpleicons.org
 
-[LINKEDIN]: https://img.shields.io/badge/linkedin-0274B3?style=for-the-badge&logo=linkedin&logoColor=white
-[LINKEDIN-url]: https://www.linkedin.com/
+# RSS
+
+[![LINKEDIN]][linkedin-url]  
+[![twitter]][twitter-url]  
+
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
@@ -31,7 +42,7 @@
 [Express.js]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
 [Express.js-url]: https://expressjs.com/
 
-[Node.JS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[Node.JS]: https://img.shields.io/badge/node.js-ffffff?style=for-the-badge&logo=node.js&logoColor=white
 [Node.JS-url]: https://nextjs.org/
 
 [Postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
@@ -51,3 +62,27 @@
 
 [MYSQL]: https://img.shields.io/badge/mysql-3E6E93?style=for-the-badge&logo=mysql&logoColor=white
 [MYSQL-url]: https://www.mysql.com/
+
+[GITHUB]: https://img.shields.io/badge/github-24292F?style=for-the-badge&logo=github&logoColor=white
+[github-url]: https://www.github.com/
+
+[GIT]: https://img.shields.io/badge/git-F54D27?style=for-the-badge&logo=git&logoColor=white
+[git-url]: https://git-scm.com/
+
+[LINKEDIN]: https://img.shields.io/badge/linkedin-0274B3?style=for-the-badge&logo=linkedin&logoColor=white
+[LINKEDIN-url]: https://www.linkedin.com/
+
+[TWITTER]: https://img.shields.io/badge/twitter-0274B3?style=for-the-badge&logo=twitter&logoColor=white
+[twitter-url]: https://www.twitter.com/
+
+[JS]: https://img.shields.io/badge/javascipt-EFD81D?style=for-the-badge&logo=javascript&logoColor=black
+[js-url]: https://developer.mozilla.org/es/docs/Web/JavaScript
+
+[DOCKER]: https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[docker-url]: https://www.docker.com/
+
+[SEQUELIZE]: https://img.shields.io/badge/sequelize-3C76C3?style=for-the-badge&logo=sequelize&logoColor=white
+[sequelize-url]: https://www.sequelize.org/
+
+[SEQUELIZE]: https://img.shields.io/badge/gmail-3C76C3?style=for-the-badge&logo=gmail&logoColor=white
+[gmail-url]: https://www.gmail.com/
