@@ -1,3 +1,10 @@
+# DOCS
+Página de iconos:  
+[Enlace a los iconos de las tecnologias simpleicons](https://simpleicons.org) 
+
+Como crear shields:  
+[Enlace a shields io](https://shields.io/)
+
 # TECHNOLOGIES
 
 [![HTML5]][HTML5-url]  
@@ -17,9 +24,6 @@
 [![LARAVEL]][LARAVEL-url]   
 [![React.js]][React-url]  
 [![Railway]][Railway-url]  
-
-Página de iconos:  
-[Enlace a los iconos de las tecnologias]: https://simpleicons.org
 
 # RSS
 
