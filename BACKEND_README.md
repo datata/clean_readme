@@ -55,6 +55,9 @@ Tecnologías utilizadas:
 7. ...
 
 ## Endpoints
+<details>
+<summary>Endpoints</summary>
+
 - AUTH
     - REGISTER
 
@@ -85,7 +88,7 @@ Tecnologías utilizadas:
             GET http://localhost:3000/api/rutina
 
     - ...
-
+</details>
 
 ## Futuras funcionalidades
 [ ] Añadir create book  
