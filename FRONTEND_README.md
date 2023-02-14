@@ -1,15 +1,14 @@
-# Welcome to my backend app
+# Welcome to my backend app  
 
 <details>
   <summary>Contenido 📝</summary>
   <ol>
-    <li><a href="#objetivo">Objetivo</a></li>
-    <li><a href="#sobre-el-proyecto">Sobre el proyecto</a></li>
+    <li><a href="#objetivo-🎯">Objetivo</a></li>
+    <li><a href="#sobre-el-proyecto-🔎">Sobre el proyecto</a></li>
     <li><a href="#deploy-🚀">Deploy</a></li>
     <li><a href="#stack">Stack</a></li>
-    <li><a href="#diagrama-bd">Diagrama</a></li>
     <li><a href="#instalación-en-local">Instalación</a></li>
-    <li><a href="#endpoints">Endpoints</a></li>
+    <li><a href="#vistas">Vistas</a></li>
     <li><a href="#futuras-funcionalidades">Futuras funcionalidades</a></li>
     <li><a href="#contribuciones">Contribuciones</a></li>
     <li><a href="#licencia">Licencia</a></li>
@@ -20,88 +19,52 @@
   </ol>
 </details>
 
-## Objetivo
-Este proyecto requería una API funcional conectada a una base de datos con al menos una relación de uno a muchos y una relación de muchos a muchos.
+## Objetivo 🎯
+Este proyecto requería conexión a una API funcional y usar react para crear una web.
 
-## Sobre el proyecto
+## Sobre el proyecto 🔎
 Decidí crear una aplicación web para ayudar a los amantes del gimnasio, que les permitiría crear y realizar un seguimiento de nuevas rutinas para sus ejercicios diarios. He visto muchas apps de este estilo pero ninguna que nos permita cambiar tan libremente las rutinas adaptandolas a nuestras necesidades.    
-
+  
 ## Deploy 🚀
 <center>
     <a href="https://www.google.com"><strong>Url a producción </strong></a>🚀🚀🚀
 </center>
 
 ## Stack
-Tecnologías utilizadas:
 <center>
-<a href="https://www.mongodb.com/">
-    <img src= "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</a>
-<a href="https://www.expressjs.com/">
-    <img src= "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-</a>
-<a href="https://nodejs.org/es/">
-    <img src= "https://img.shields.io/badge/node.js-026E00?style=for-the-badge&logo=node.js&logoColor=white"/>
+<a href="https://www.reactjs.com/">
+    <img src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
     <img src= "https://img.shields.io/badge/javascipt-EFD81D?style=for-the-badge&logo=javascript&logoColor=black"/>
 </a>
  </center>
 
-
-## Diagrama BD
-!['imagen-db'](./images/sampleDb.png)
-
 ## Instalación en local
 1. Clonar el repositorio
 2. ` $ npm install `
-3. Conectamos nuestro repositorio con la base de datos 
-4. ``` $ Ejecutamos las migraciones ``` 
-5. ``` $ Ejecutamos los seeders ``` 
-6. ``` $ npm run dev ``` 
-7. ...
+3. ``` $ npm run dev ```
+4. ...
 
-## Endpoints
-<details>
-<summary>Endpoints</summary>
-
-- AUTH
-    - REGISTER
-
-            POST http://localhost:3000/api/register
-        body:
-        ``` js
-            {
-                "user": "David",
-                "email": "david@david.com",
-                "password": "princes"
-            }
-        ```
-
-    - LOGIN
-
-            POST http://localhost:3000/api/login  
-        body:
-        ``` js
-            {
-                "user": "David",
-                "email": "david@david.com",
-                "password": "princes"
-            }
-        ```
-- RUTINAS
-    - RECUPERAR RUTINAS  
-
-            GET http://localhost:3000/api/rutina
-
-    - ...
-</details>
+## Vistas
+Landing
+<img src="./images/landing.png">  
+Register
+<img src="./images/register.png">
+Login
+<img src="./images/login.png">
+Profile
+<img src="./images/profile.png">
+Routines
+<img src="./images/routines.png">
+Exercices
+<img src="./images/exercises.png">
 
 ## Futuras funcionalidades
-[ ] Añadir create book  
-[ ] Añadir logs  con winston  
-[ ] Validaciones de la solicitud con express-validator  
-[ ] ...
+✅ Vista actualizar rutinas  
+⬜ Filtar por nombre de rutina  
+⬜ Validaciones de campos en crear rutina  
+⬜ ...  
 
 ## Contribuciones
 Las sugerencias y aportaciones son siempre bienvenidas.  
