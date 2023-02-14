@@ -27,13 +27,13 @@ Este proyecto requería una API funcional conectada a una base de datos con al m
 Decidí crear una aplicación web para ayudar a los amantes del gimnasio, que les permitiría crear y realizar un seguimiento de nuevas rutinas para sus ejercicios diarios. He visto muchas apps de este estilo pero ninguna que nos permita cambiar tan libremente las rutinas adaptandolas a nuestras necesidades.    
 
 ## Deploy 🚀
-<center>
+<div align="center">
     <a href="https://www.google.com"><strong>Url a producción </strong></a>🚀🚀🚀
-</center>
+</div>
 
 ## Stack
 Tecnologías utilizadas:
-<center>
+<div align="center">
 <a href="https://www.mongodb.com/">
     <img src= "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </a>
@@ -46,7 +46,7 @@ Tecnologías utilizadas:
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
     <img src= "https://img.shields.io/badge/javascipt-EFD81D?style=for-the-badge&logo=javascript&logoColor=black"/>
 </a>
- </center>
+ </div>
 
 
 ## Diagrama BD
